@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: b12d620b36b289245bd45762ae51661b
+timeCreated: 1521406920
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 156674
+  packageName: Space Skyboxes & Planets
+  packageVersion: 1.3
+  assetPath: Assets/Skyboxes/Materials/Skybox/Nebula_Mariana_4K.mat
+  uploadId: 364228

@@ -1,0 +1,202 @@
+[
+  {
+    "viseme": "K_G",
+    "start_offset": "np.int64(0)",
+    "end_offset": "np.int64(2)"
+  },
+  {
+    "viseme": "K_G",
+    "start_offset": "np.int64(5)",
+    "end_offset": "np.int64(6)"
+  },
+  {
+    "viseme": "R",
+    "start_offset": "np.int64(9)",
+    "end_offset": "np.int64(10)"
+  },
+  {
+    "viseme": "EE",
+    "start_offset": "np.int64(12)",
+    "end_offset": "np.int64(13)"
+  },
+  {
+    "viseme": "T_L_D",
+    "start_offset": "np.int64(16)",
+    "end_offset": "np.int64(18)"
+  },
+  {
+    "viseme": "Ih",
+    "start_offset": "np.int64(21)",
+    "end_offset": "np.int64(22)"
+  },
+  {
+    "viseme": "K_G",
+    "start_offset": "np.int64(24)",
+    "end_offset": "np.int64(26)"
+  },
+  {
+    "viseme": "S_Z",
+    "start_offset": "np.int64(55)",
+    "end_offset": "np.int64(57)"
+  },
+  {
+    "viseme": "W_OO",
+    "start_offset": "np.int64(57)",
+    "end_offset": "np.int64(58)"
+  },
+  {
+    "viseme": "T_L_D",
+    "start_offset": "np.int64(58)",
+    "end_offset": "np.int64(60)"
+  },
+  {
+    "viseme": "SIL",
+    "start_offset": "np.int64(69)",
+    "end_offset": "np.int64(70)"
+  },
+  {
+    "viseme": "Ih",
+    "start_offset": "np.int64(72)",
+    "end_offset": "np.int64(73)"
+  },
+  {
+    "viseme": "W_OO",
+    "start_offset": "np.int64(86)",
+    "end_offset": "np.int64(88)"
+  },
+  {
+    "viseme": "EE",
+    "start_offset": "np.int64(90)",
+    "end_offset": "np.int64(91)"
+  },
+  {
+    "viseme": "K_G",
+    "start_offset": "np.int64(93)",
+    "end_offset": "np.int64(94)"
+  },
+  {
+    "viseme": "A_E",
+    "start_offset": "np.int64(96)",
+    "end_offset": "np.int64(97)"
+  },
+  {
+    "viseme": "T_L_D",
+    "start_offset": "np.int64(99)",
+    "end_offset": "np.int64(100)"
+  },
+  {
+    "viseme": "T_L_D",
+    "start_offset": "np.int64(104)",
+    "end_offset": "np.int64(105)"
+  },
+  {
+    "viseme": "EE",
+    "start_offset": "np.int64(107)",
+    "end_offset": "np.int64(108)"
+  },
+  {
+    "viseme": "T_L_D",
+    "start_offset": "np.int64(111)",
+    "end_offset": "np.int64(114)"
+  },
+  {
+    "viseme": "W_OO",
+    "start_offset": "np.int64(114)",
+    "end_offset": "np.int64(116)"
+  },
+  {
+    "viseme": "Er",
+    "start_offset": "np.int64(116)",
+    "end_offset": "np.int64(117)"
+  },
+  {
+    "viseme": "Ih",
+    "start_offset": "np.int64(125)",
+    "end_offset": "np.int64(126)"
+  },
+  {
+    "viseme": "B_M_P",
+    "start_offset": "np.int64(129)",
+    "end_offset": "np.int64(130)"
+  },
+  {
+    "viseme": "A_E",
+    "start_offset": "np.int64(136)",
+    "end_offset": "np.int64(138)"
+  },
+  {
+    "viseme": "CH_J",
+    "start_offset": "np.int64(138)",
+    "end_offset": "np.int64(140)"
+  },
+  {
+    "viseme": "Ih",
+    "start_offset": "np.int64(140)",
+    "end_offset": "np.int64(142)"
+  },
+  {
+    "viseme": "T_L_D",
+    "start_offset": "np.int64(145)",
+    "end_offset": "np.int64(147)"
+  },
+  {
+    "viseme": "A_E",
+    "start_offset": "np.int64(147)",
+    "end_offset": "np.int64(149)"
+  },
+  {
+    "viseme": "S_Z",
+    "start_offset": "np.int64(149)",
+    "end_offset": "np.int64(151)"
+  },
+  {
+    "viseme": "A_E",
+    "start_offset": "np.int64(158)",
+    "end_offset": "np.int64(160)"
+  },
+  {
+    "viseme": "T_L_D",
+    "start_offset": "np.int64(162)",
+    "end_offset": "np.int64(164)"
+  },
+  {
+    "viseme": "S_Z",
+    "start_offset": "np.int64(168)",
+    "end_offset": "np.int64(170)"
+  },
+  {
+    "viseme": "R",
+    "start_offset": "np.int64(173)",
+    "end_offset": "np.int64(176)"
+  },
+  {
+    "viseme": "A_E",
+    "start_offset": "np.int64(178)",
+    "end_offset": "np.int64(179)"
+  },
+  {
+    "viseme": "T_L_D",
+    "start_offset": "np.int64(181)",
+    "end_offset": "np.int64(183)"
+  },
+  {
+    "viseme": "W_OO",
+    "start_offset": "np.int64(191)",
+    "end_offset": "np.int64(193)"
+  },
+  {
+    "viseme": "A_E",
+    "start_offset": "np.int64(193)",
+    "end_offset": "np.int64(196)"
+  },
+  {
+    "viseme": "T_L_D",
+    "start_offset": "np.int64(196)",
+    "end_offset": "np.int64(199)"
+  },
+  {
+    "viseme": "T_L_D",
+    "start_offset": "np.int64(213)",
+    "end_offset": "np.int64(215)"
+  }
+]

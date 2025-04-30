@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a72dc075f47e13d49b7a92f8c6b14a2a
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 307432
+  packageName: Vfx Game Ui-Space particles effects
+  packageVersion: 1.0
+  assetPath: Assets/vfx particles effect/Scene/DemoScene_DustParticles.unity
+  uploadId: 723743

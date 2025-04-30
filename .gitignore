@@ -11,6 +11,9 @@
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
 
+# Asset meta data should only be ignored when the corresponding asset is also ignored
+!/[Aa]ssets/**/*.meta
+
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
 /[Mm]emoryCaptures/
@@ -26,6 +29,7 @@
 
 # Visual Studio cache directory
 .vs/
+.vsconfig
 
 # Gradle cache directory
 .gradle/
@@ -53,8 +57,18 @@ ExportedObj/
 *.pdb.meta
 *.mdb.meta
 
+# Builds
+*.apk
+*.aab
+*.unitypackage
+*.unitypackage.meta
+*.app
+
 # Unity3D generated file on crash reports
 sysinfo.txt
+
+# Recordings can get excessive in size
+/[Rr]ecordings/
 
 # Builds
 *.apk
@@ -72,3 +86,34 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+
+# Ignore links, shortcuts, symlinks and junctions
+*.lnk
+*.shortcut
+*.symlink
+*.junction
+/Packages/Package/
+/[Pp]ackages/[Pp]ackage/
+
+
+# FMOD 
+# From: https://www.fmod.com/docs/2.02/unity/user-guide.html
+# Never ignore DLLs in the FMOD subfolder.
+!/[Aa]ssets/Plugins/FMOD/**/lib/*
+
+# Don't ignore images and gizmos used by FMOD in the Unity Editor.
+!/[Aa]ssets/Gizmos/FMOD/*
+!/[Aa]ssets/Editor Default Resources/FMOD/*
+
+# Ignore the Cache folder since it is updated locally.
+/[Aa]ssets/Plugins/FMOD/Cache/*
+
+# Ignore bank files in the StreamingAssets folder.
+/[Aa]ssets/StreamingAssets/**/*.bank
+/[Aa]ssets/StreamingAssets/**/*.bank.meta
+# If the source bank files are kept outside of the StreamingAssets folder then these can be ignored.
+
+# Log files can be ignored.
+fmod_editor.log
+# END FMOD

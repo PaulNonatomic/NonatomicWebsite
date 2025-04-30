@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 12523ea8ce541e24a8c7ee65ecfb2eeb
+timeCreated: 1521406920
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 156674
+  packageName: Space Skyboxes & Planets
+  packageVersion: 1.3
+  assetPath: Assets/Skyboxes/Materials/Skybox/Nebula_Mirage_4K.mat
+  uploadId: 364228

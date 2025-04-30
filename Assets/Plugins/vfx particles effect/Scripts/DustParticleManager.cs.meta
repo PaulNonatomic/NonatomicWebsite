@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: e9bda2988566eca4eafd75325b76b0e7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 307432
+  packageName: Vfx Game Ui-Space particles effects
+  packageVersion: 1.0
+  assetPath: Assets/vfx particles effect/Scripts/DustParticleManager.cs
+  uploadId: 723743

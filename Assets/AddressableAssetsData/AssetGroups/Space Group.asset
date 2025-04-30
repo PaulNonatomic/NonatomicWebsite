@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Space Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Space Group
+  m_GUID: c767853a0727151419b77a4350375c16
+  m_SerializeEntries:
+  - m_GUID: 28104a6f1d6b03249a8260b8f0524efb
+    m_Address: Assets/FMODBanks/Space.bytes
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bc68c34fcd82cdb4fbc183a557357813
+    m_Address: Assets/Game/Intro/Content/Prefabs/PlayerTrackingCamera.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: de611fd52d4885746afe55cd69dd1a60
+    m_Address: Assets/Game/Intro/Content/Prefabs/PlayerSpacePaul.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fa97c6e9705902f42b8ac9086a977670
+    m_Address: Assets/FMODBanks/Space.strings.bytes
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: e9e3100ed2b1a9e439f83e4e2ed90e28, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: cfa6491a60d00544aafed5509aff4d51, type: 2}
+    - {fileID: 11400000, guid: ef397dbba5e1a894c811dff83e4acfb9, type: 2}

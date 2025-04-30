@@ -1,0 +1,80 @@
+<linker>
+  <assembly fullname="com.nonatomic.servicelocator.runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Nonatomic.ServiceLocator.ServiceLocator" preserve="all" />
+  </assembly>
+  <assembly fullname="com.nonatomic.space.runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Game.Intro.Camera.CameraTarget" preserve="all" />
+    <type fullname="Game.Intro.Camera.PlayerTrackingCameraService" preserve="all" />
+    <type fullname="Game.Intro.Player.EyelidBlink" preserve="all" />
+    <type fullname="Game.Intro.Player.Game.Intro.Player.VisemeTextureUpdater" preserve="all" />
+    <type fullname="Game.Intro.Player.HeadTarget" preserve="all" />
+    <type fullname="Game.Intro.Player.LookAtCamera" preserve="all" />
+    <type fullname="Game.Intro.Player.OrbitController" preserve="all" />
+    <type fullname="Game.Intro.Player.PupilController" preserve="all" />
+    <type fullname="Game.Intro.Viseme.VisemeAnimationController" preserve="all" />
+    <type fullname="Game.Intro.Player.Game.Intro.Player.VisemeMouthTexture" preserve="nothing" serialized="true" />
+    <type fullname="Game.Intro.Viseme.VisemeMapping" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.AddressableAssets.Addressables" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.Animation.Rigging, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Animations.Rigging.BoneRenderer" preserve="all" />
+    <type fullname="UnityEngine.Animations.Rigging.MultiAimConstraint" preserve="all" />
+    <type fullname="UnityEngine.Animations.Rigging.Rig" preserve="all" />
+    <type fullname="UnityEngine.Animations.Rigging.RigBuilder" preserve="all" />
+    <type fullname="UnityEngine.Animations.Rigging.MultiAimConstraintData" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Animations.Rigging.RigEffectorData" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Animations.Rigging.RigEffectorData/Style" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Animations.Rigging.RigLayer" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Animations.Rigging.Vector3Bool" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Animations.Rigging.WeightedTransform" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Animations.Rigging.WeightedTransformArray" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Unity.Cinemachine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Unity.Cinemachine.CinemachineBasicMultiChannelPerlin" preserve="all" />
+    <type fullname="Unity.Cinemachine.CinemachineCamera" preserve="all" />
+    <type fullname="Unity.Cinemachine.CinemachineCameraOffset" preserve="all" />
+    <type fullname="Unity.Cinemachine.CinemachineHardLookAt" preserve="all" />
+    <type fullname="Unity.Cinemachine.NoiseSettings" preserve="all" />
+    <type fullname="Unity.Cinemachine.CameraTarget" preserve="nothing" serialized="true" />
+    <type fullname="Unity.Cinemachine.LensSettings" preserve="nothing" serialized="true" />
+    <type fullname="Unity.Cinemachine.LensSettings/PhysicalSettings" preserve="nothing" serialized="true" />
+    <type fullname="Unity.Cinemachine.NoiseSettings/NoiseParams" preserve="nothing" serialized="true" />
+    <type fullname="Unity.Cinemachine.NoiseSettings/TransformNoiseParams" preserve="nothing" serialized="true" />
+    <type fullname="Unity.Cinemachine.PrioritySettings" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Unity.RenderPipelines.Universal.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Rendering.Universal.UniversalAdditionalLightData" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.InstanceProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.SceneProvider" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.AnimationModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.AnimationClip" preserve="all" />
+    <type fullname="UnityEngine.Animator" preserve="all" />
+    <type fullname="UnityEngine.Avatar" preserve="all" />
+    <type fullname="UnityEngine.RuntimeAnimatorController" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.AudioModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.AudioClip" preserve="all" />
+    <type fullname="UnityEngine.AudioSource" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.GameObject" preserve="all" />
+    <type fullname="UnityEngine.Light" preserve="all" />
+    <type fullname="UnityEngine.Material" preserve="all" />
+    <type fullname="UnityEngine.Mesh" preserve="all" />
+    <type fullname="UnityEngine.MeshFilter" preserve="all" />
+    <type fullname="UnityEngine.MeshRenderer" preserve="all" />
+    <type fullname="UnityEngine.Object" preserve="all" />
+    <type fullname="UnityEngine.Shader" preserve="all" />
+    <type fullname="UnityEngine.SkinnedMeshRenderer" preserve="all" />
+    <type fullname="UnityEngine.TextAsset" preserve="all" />
+    <type fullname="UnityEngine.Texture2D" preserve="all" />
+    <type fullname="UnityEngine.Transform" preserve="all" />
+  </assembly>
+</linker>

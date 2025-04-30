@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6d0276ea4f262d5439f0532502b14441
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 156674
+  packageName: Space Skyboxes & Planets
+  packageVersion: 1.3
+  assetPath: Assets/Skyboxes/Shaders/Skybox 6 Sided Rotation Matrix.shader
+  uploadId: 364228

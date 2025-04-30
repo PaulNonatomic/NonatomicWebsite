@@ -1,0 +1,242 @@
+[
+  {
+    "start": 0.0,
+    "end": 0.0668,
+    "phoneme": "G",
+    "viseme": "etc"
+  },
+  {
+    "start": 0.0668,
+    "end": 0.1336,
+    "phoneme": "R",
+    "viseme": "R"
+  },
+  {
+    "start": 0.1336,
+    "end": 0.2004,
+    "phoneme": "IY",
+    "viseme": "I"
+  },
+  {
+    "start": 0.2004,
+    "end": 0.2672,
+    "phoneme": "T",
+    "viseme": "etc"
+  },
+  {
+    "start": 0.2672,
+    "end": 0.33399999999999996,
+    "phoneme": "IH",
+    "viseme": "I"
+  },
+  {
+    "start": 0.33399999999999996,
+    "end": 0.40079999999999993,
+    "phoneme": "NG",
+    "viseme": "etc"
+  },
+  {
+    "start": 0.40079999999999993,
+    "end": 0.4675999999999999,
+    "phoneme": "Z",
+    "viseme": "etc"
+  },
+  {
+    "start": 0.4676,
+    "end": 0.7014,
+    "phoneme": "AW",
+    "viseme": "AA"
+  },
+  {
+    "start": 0.7014,
+    "end": 0.9352,
+    "phoneme": "T",
+    "viseme": "etc"
+  },
+  {
+    "start": 0.9352,
+    "end": 1.0910666666666666,
+    "phoneme": "HH",
+    "viseme": "etc"
+  },
+  {
+    "start": 1.0910666666666666,
+    "end": 1.2469333333333332,
+    "phoneme": "IY",
+    "viseme": "I"
+  },
+  {
+    "start": 1.2469333333333332,
+    "end": 1.4027999999999998,
+    "phoneme": "R",
+    "viseme": "R"
+  },
+  {
+    "start": 1.4028,
+    "end": 1.6366,
+    "phoneme": "W",
+    "viseme": "W"
+  },
+  {
+    "start": 1.6366,
+    "end": 1.8704,
+    "phoneme": "IY",
+    "viseme": "I"
+  },
+  {
+    "start": 1.8704,
+    "end": 2.026266666666667,
+    "phoneme": "K",
+    "viseme": "etc"
+  },
+  {
+    "start": 2.026266666666667,
+    "end": 2.1821333333333337,
+    "phoneme": "AE",
+    "viseme": "AA"
+  },
+  {
+    "start": 2.1821333333333337,
+    "end": 2.3380000000000005,
+    "phoneme": "N",
+    "viseme": "etc"
+  },
+  {
+    "start": 2.338,
+    "end": 2.493866666666667,
+    "phoneme": "L",
+    "viseme": "L"
+  },
+  {
+    "start": 2.493866666666667,
+    "end": 2.6497333333333337,
+    "phoneme": "EH",
+    "viseme": "E"
+  },
+  {
+    "start": 2.6497333333333337,
+    "end": 2.8056000000000005,
+    "phoneme": "T",
+    "viseme": "etc"
+  },
+  {
+    "start": 2.8056,
+    "end": 3.0394,
+    "phoneme": "AW",
+    "viseme": "AA"
+  },
+  {
+    "start": 3.0394,
+    "end": 3.2732,
+    "phoneme": "ER",
+    "viseme": "E"
+  },
+  {
+    "start": 3.2732,
+    "end": 3.315709090909091,
+    "phoneme": "IH",
+    "viseme": "I"
+  },
+  {
+    "start": 3.315709090909091,
+    "end": 3.3582181818181818,
+    "phoneme": "M",
+    "viseme": "MBP"
+  },
+  {
+    "start": 3.3582181818181818,
+    "end": 3.4007272727272726,
+    "phoneme": "AE",
+    "viseme": "AA"
+  },
+  {
+    "start": 3.4007272727272726,
+    "end": 3.4432363636363634,
+    "phoneme": "JH",
+    "viseme": "CH"
+  },
+  {
+    "start": 3.4432363636363634,
+    "end": 3.4857454545454543,
+    "phoneme": "AH",
+    "viseme": "AA"
+  },
+  {
+    "start": 3.4857454545454543,
+    "end": 3.528254545454545,
+    "phoneme": "N",
+    "viseme": "etc"
+  },
+  {
+    "start": 3.528254545454545,
+    "end": 3.570763636363636,
+    "phoneme": "EY",
+    "viseme": "E"
+  },
+  {
+    "start": 3.570763636363636,
+    "end": 3.6132727272727267,
+    "phoneme": "SH",
+    "viseme": "CH"
+  },
+  {
+    "start": 3.6132727272727267,
+    "end": 3.6557818181818176,
+    "phoneme": "AH",
+    "viseme": "AA"
+  },
+  {
+    "start": 3.6557818181818176,
+    "end": 3.6982909090909084,
+    "phoneme": "N",
+    "viseme": "etc"
+  },
+  {
+    "start": 3.6982909090909084,
+    "end": 3.7407999999999992,
+    "phoneme": "Z",
+    "viseme": "etc"
+  },
+  {
+    "start": 3.7408,
+    "end": 3.896666666666667,
+    "phoneme": "R",
+    "viseme": "R"
+  },
+  {
+    "start": 3.896666666666667,
+    "end": 4.052533333333334,
+    "phoneme": "AH",
+    "viseme": "AA"
+  },
+  {
+    "start": 4.052533333333334,
+    "end": 4.2084,
+    "phoneme": "N",
+    "viseme": "etc"
+  },
+  {
+    "start": 4.2084,
+    "end": 4.3253,
+    "phoneme": "W",
+    "viseme": "W"
+  },
+  {
+    "start": 4.3253,
+    "end": 4.442200000000001,
+    "phoneme": "AY",
+    "viseme": "AA"
+  },
+  {
+    "start": 4.442200000000001,
+    "end": 4.559100000000001,
+    "phoneme": "L",
+    "viseme": "L"
+  },
+  {
+    "start": 4.559100000000001,
+    "end": 4.676000000000001,
+    "phoneme": "D",
+    "viseme": "etc"
+  }
+]
